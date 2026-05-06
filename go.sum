@@ -1,0 +1,4 @@
+github.com/MahmudovMZ/go-scanner v0.0.0-20260505181446-a8f451feec82 h1:/Fm9QUCyldQGOevl7ijlfSnHqCS92FCd9AE1u01zXgw=
+github.com/MahmudovMZ/go-scanner v0.0.0-20260505181446-a8f451feec82/go.mod h1:KHaAiJ4Z6vnKWOghs35s1CBL6/qdcvWmSE2G0aEHUNA=
+github.com/gorilla/mux v1.8.1 h1:TuBL49tXwgrFYWhqrNgrUNEY92u81SPhu7sTdzQEiWY=
+github.com/gorilla/mux v1.8.1/go.mod h1:AKf9I4AEqPTmMytcMc0KkNouC66V3BtZ4qD5fmWSiMQ=
